@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theAkshayPandey
-- 👀 I’m interested in Development and Security Analysis of web applications
+- 👀 I’m interested in Information Security & Web Development.
 - 🌱 I’m currently learning Blockchain Security Assessment and Analysis
 - 💞️ I’m looking to collaborate on Web App development & Security Analysis.
 - 📫 To contact, mail me i_akshaypandey@outlook.com 
